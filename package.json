@@ -1,15 +1,13 @@
 {
-  "name": "books-service",
+  "name": "fullstack-starter",
   "version": "1.0.0",
-  "description": "Simple API for CS 248 fetch() demo",
-  "main": "books-service.js",
+  "description": "Starter template for CS 248 full-stack projects (Express server + static client).",
+  "type": "module",
   "scripts": {
-    "start": "node books-service.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^5.1.0"
-  },
-  "engines": {
-  "node": ">=18"
-  } 
+  }
 }
+
