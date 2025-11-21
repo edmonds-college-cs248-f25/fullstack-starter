@@ -8,6 +8,7 @@ This repo includes:
 - A simple example API endpoint
 - Built-in support for **GitHub Codespaces**
 - A clean, predictable project structure for your assignments
+- A **data/** folder for any data saved to the server
 
 Use this as the starting point for any project that requires both:
 1. A browser-based web app (HTML + CSS + JS), **and**
